@@ -1,20 +1,26 @@
 ---
 layout: page
-title: About Pixyll
+title: About me
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Hi my name is Yuri Subach, I am seasoned web application developer and
+system engineer. I live with my family in Vancouver, Canada.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+This is my personal blog dedicated to professional part of my life. Here
+I publish various thoughts, tips or just share my daily work experience.
+Major publication topics include web developerment, web applications
+performance, distributed systems, high load systems; general Linux
+administration, cloud deployment and usage.
+Another set of topics interesting for me is OS X daily usage 
+and developement for iPhone/iPad.
 
-Thanks to the following:
+Currently I provide consulting and development services as a contractor.
+If have any project in mind drop me a line, hope I can help.
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+The best ways to contact me:
+
+- Email/iMessage: <ysubach@gmail.com>
+- Skype: [ysubach](skype:ysubach?chat)
+
