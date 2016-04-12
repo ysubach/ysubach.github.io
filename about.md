@@ -17,7 +17,7 @@ Another set of topics interesting for me is OS X daily usage
 and developement for iPhone/iPad.
 
 Currently I provide consulting and development services as a contractor.
-If have any project in mind drop me a line, hope I can help.
+If you have any project in mind drop me a line, hope I can help.
 
 The best ways to contact me:
 
