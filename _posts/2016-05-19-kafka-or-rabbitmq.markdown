@@ -145,6 +145,6 @@ Conclusion is simple:
 * RabbitMQ is good for "slow" and unreliable consumers
 
 I recommend to use that for your analysis because real systems are more 
-complex and above conslusion is not optimal for every situation.
+complex and above conclusion is not optimal for every situation.
 
 Good luck!
