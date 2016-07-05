@@ -7,7 +7,7 @@ tags: [google, cloud, website]
 Nowadays speed of website is very important factor that affects conversion and
 overall user experience. Since significant amount of data loaded for every
 page belongs to static assets (such as images, CSS and JavaScript files)
-category optimization of delivery ihere can contribute a lot to overall website load
+category optimization of delivery here can contribute a lot to overall website load
 speed.
 
 Technique described in this post is generally applicable for two major use
@@ -95,8 +95,8 @@ rules or "rewrites" to achieve that.
 
 This is not supported by Google Storage but we can get the same thing if the
 file is renamed to "category" before uploading to the bucket. The only issue
-now is that this file will be offered for download instead of rendring as a
-page. It happens because "Content-Type" header is defined autmatically by the
+now is that this file will be offered for download instead of rendering as a
+page. It happens because "Content-Type" header is defined automatically by the
 file extension, so we just need explicitly define it for "category" file:
 
 {% highlight no %}
@@ -116,6 +116,6 @@ $ gsutil -m rsync -d -R /my/local/folder gs://www.mydomain.com
 
 ## Summary
 
-Modern cloud storage solutions are definitely great tools for static assests
+Modern cloud storage solutions are definitely great tools for static assets
 and entire websites storage and delivery. This is valuable design
 pattern and another step into cloud-enabled future.
