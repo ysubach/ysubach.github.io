@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Cloud Platform for static website hosting"
-tags: []
+tags: [google, cloud, website]
 ---
 
 Nowadays speed of website is very important factor that affects conversion and
