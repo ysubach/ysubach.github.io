@@ -74,7 +74,7 @@ need change ACL settings before anyone can access you website. One way of
 doing that is to update setting for each file recursively:
 
 {% highlight no %}
-$ gsutil acl -r ch -u AllUsers:R gs://www.mydomain.com/
+gsutil acl -r ch -u AllUsers:R gs://www.mydomain.com/
 {% endhighlight %}
 
 This method is slow if you have many files. The faster way is to change
@@ -82,7 +82,7 @@ default ACL settings, which is fine because we mapped entire bucket to the
 domain.
 
 {% highlight no %}
-$ gsutil defacl ch -u AllUsers:R gs://www.mydomain.com
+gsutil defacl ch -u AllUsers:R gs://www.mydomain.com
 {% endhighlight %}
 
 
@@ -100,7 +100,7 @@ page. It happens because "Content-Type" header is defined automatically by the
 file extension, so we just need explicitly define it for "category" file:
 
 {% highlight no %}
-$ gsutil setmeta -h "Content-Type:text/html" gs://www.mydomain.com/category
+gsutil setmeta -h "Content-Type:text/html" gs://www.mydomain.com/category
 {% endhighlight %}
 
 
@@ -110,7 +110,7 @@ Not as issue, just a good way to upload updates for your website using "rsync"
 command:
 
 {% highlight no %}
-$ gsutil -m rsync -d -R /my/local/folder gs://www.mydomain.com
+gsutil -m rsync -d -R /my/local/folder gs://www.mydomain.com
 {% endhighlight %}
 
 
