@@ -102,7 +102,7 @@ on line 16.
 
 {% highlight java %}
 // Base URI the Grizzly HTTP server will listen on
-public static final String BASE_URI = "http://0.0.0.0:8080/myapp/";
+public static final String BASE_URI = "http://localhost:8080/myapp/";
 {% endhighlight %}
 
 This is not going to work well in Docker container because network interface
