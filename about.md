@@ -12,8 +12,7 @@ This is my personal blog dedicated to professional part of my life. Here I
 publish various thoughts, tips or just share my daily work experience.  Major
 publication topics include security, cloud platforms, API and web developement
 and performance, distributed systems, high load systems; general Linux
-administration.  Another set of topics interesting for me is OS X daily usage
-and development for iPhone/iPad.
+administration.
 
 I am working as a Director / Senior Consultant at 
 [Dekses Technologies](http://www.dekses.com) where we helping organizations
@@ -21,6 +20,6 @@ develop secure APIs.
 
 The best ways to contact me:
 
-- Email/iMessage: <ysubach@gmail.com>
+- Email: <yuri@dekses.com>
 - Skype: [ysubach](skype:ysubach?chat)
 
