@@ -13,6 +13,14 @@
 .site-header .site-title {
   font-size: $h2;
 }
+.site-header a.dekses-title {
+  float: none !important;
+  color: $link-color;
+  /*text-decoration: underline;*/
+}
+.site-header .spacer {
+  font-size: 1.25rem;
+}
 
 .site-nav {
   margin-top: $space-2;
