@@ -15,8 +15,8 @@ and performance, distributed systems, high load systems; general Linux
 administration.
 
 I am working as a Director / Senior Consultant at 
-[Dekses Technologies](http://www.dekses.com) where we helping organizations
-develop secure APIs.
+[Dekses Technologies](http://www.dekses.com) where we 
+helping digital health organizations implement HIPAA compliant cloud solutions.
 
 The best ways to contact me:
 
