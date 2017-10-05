@@ -7,7 +7,7 @@ tags: contacts
 
 Message me:
 
-- Email: <yuri@dekses.com>
+- Email: <ysubach@gmail.com>
 - Skype: [ysubach](skype:ysubach?chat)
 
 Also you can find me here:

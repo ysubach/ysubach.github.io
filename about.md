@@ -20,6 +20,6 @@ helping digital health organizations implement HIPAA compliant cloud solutions.
 
 The best ways to contact me:
 
-- Email: <yuri@dekses.com>
+- Email: <ysubach@gmail.com>
 - Skype: [ysubach](skype:ysubach?chat)
 
