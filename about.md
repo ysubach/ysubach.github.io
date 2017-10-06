@@ -5,18 +5,16 @@ permalink: /about/
 tags: about
 ---
 
-Hi my name is Yuri Subach, I am a seasoned architect, web application developer
+Hi my name is Yuri Subach, I am a seasoned cloud architect, software developer
 and system engineer. I live with my family in Vancouver, Canada.
 
 This is my personal blog dedicated to professional part of my life. Here I
 publish various thoughts, tips or just share my daily work experience.  Major
-publication topics include security, cloud platforms, API and web developement
-and performance, distributed systems, high load systems; general Linux
-administration.
+publication topics include distributed systems and databases, security, cloud 
+platforms, API and web developement and performance.
 
-I am working as a Director / Senior Consultant at 
-[Dekses Technologies](http://www.dekses.com) where we 
-helping digital health organizations implement HIPAA compliant cloud solutions.
+I am working as a consultant helping businesses scale and succeed in the world 
+of cloud technologies, big data and APIs.
 
 The best ways to contact me:
 
