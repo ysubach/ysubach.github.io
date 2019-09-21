@@ -5,8 +5,8 @@ permalink: /about/
 tags: about
 ---
 
-Hi my name is Yuri Subach, I am a seasoned cloud architect, software developer
-and system engineer. I live with my family in Vancouver, Canada.
+Hi my name is Yuri Subach, I am a seasoned software architect, developer
+and system engineer. I live with my family in Calgary, Canada.
 
 This is my personal blog dedicated to professional part of my life. Here I
 publish various thoughts, tips or just share my daily work experience.  Major
@@ -18,6 +18,4 @@ of cloud technologies, big data and APIs.
 
 The best ways to contact me:
 
-- Email: <ysubach@gmail.com>
-- Skype: [ysubach](skype:ysubach?chat)
-
+- Email: <yuri@dekses.com>
