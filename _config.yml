@@ -1,8 +1,8 @@
 # Site settings
 title:       Yuri Subach
-email:       ysubach@gmail.com
+email:       yuri@dekses.com
 author:      Yuri Subach
-description: "Seasoned web application developer and system engineer"
+description: "Seasoned software architect, developer and system engineer"
 baseurl:     ""
 url:         "http://yurisubach.com"
 date_format: "%b %-d, %Y"
