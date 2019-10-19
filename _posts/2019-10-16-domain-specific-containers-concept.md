@@ -11,7 +11,7 @@ ownership will be retained by the platform.
 
 ## Overview
 
-The general idea of containers implies some form of isolation and control.  
+The general idea of containers implies some form of isolation and control. 
 Modern _application containers_ provide means to control low level machine 
 resources (CPU, RAM, disk, network). They are perfect tools for cloud 
 infrastructure providers which allow them basically to rent out computing 
