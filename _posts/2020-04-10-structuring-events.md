@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Structuring events in a messaging system"
-tags: [events, messages, distributed]
+tags: [events, messaging, distributedsystems]
 ---
 
 This post describes some general principles that can be used to create an event 
