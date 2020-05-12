@@ -5,7 +5,7 @@
 
 .site-header a {
   color: #333;
-  font-size: $h3;
+  font-size: $h2;
   font-weight: 300;
   background-image: none;
 }
@@ -16,7 +16,7 @@
 .site-header a.dekses-title {
   float: none !important;
   color: $link-color;
-  /*text-decoration: underline;*/
+  //text-decoration: underline;
 }
 .site-header .spacer {
   font-size: 1.25rem;
@@ -27,15 +27,15 @@
 }
 
 .site-header nav a {
-  color: #666;
+  color: #333;
 }
 
 .site-header nav a:hover,
 .site-header nav a:focus,
 .site-header nav a:active {
   color: #444;
-  opacity: 1;
-  border-bottom: 2px solid #444;
+  //opacity: 1;
+  //border-bottom: 2px solid #444;
 }
 
 .site-nav a + a {

@@ -19,6 +19,9 @@
   font-weight: 600;
   color: #333;
 }
+a.post-link {
+  text-decoration: none;
+}
 
 .post-footer {
   @extend .italic;
