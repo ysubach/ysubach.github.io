@@ -43,6 +43,7 @@ $green: #00ab37 !default;
 $dark-green: #009f06 !default;
 $light-pink: #ffdddd !default;
 $light-green: #ddffdd !default;
+$black: #000 !default;
 $dark-gray: #333 !default;
 $mid-gray: #777 !default;
 $light-gray: #ccc !default;
@@ -113,9 +114,9 @@ $hljs-change: $dark-blue;
 $hljs-chunk: $light-gray;
 
 // Footer
-$footer-border-top: thin solid #f3f3f3;
+$footer-border-top: 1px solid #555;
 $footer-padding: $space-3;
-$footer-color: #7a7a7a;
-$footer-bg-color: #fafafa;
+$footer-color: #555;
+$footer-bg-color: #fff;
 $footer-font-weight: 300;
 $footer-font-size: .9rem;
