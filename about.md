@@ -18,4 +18,4 @@ of cloud technologies, big data and APIs.
 
 The best ways to contact me:
 
-- Email: <yuri@dekses.com>
+- Email: <ysubach@gmail.com>
